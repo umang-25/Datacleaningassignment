@@ -52,4 +52,4 @@ finaldata
         train_y:dataframe[7352 x 2]
                 imported table for activity in train
         val: logical vector
-        had the values of the final table's column name hich match the required vales by the                    question
+        had the values of the final table's column name hich match the required vales by the question
